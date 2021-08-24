@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... learning to code and collaborating with other devlopers!
 - 🌱 I’m currently learning ... html,css,javascript and python
 - 💞️ I’m looking to collaborate on ... ANYTHING!
-- 📫 How to reach me ... via email lilrebel17@live.com
+- 📫 How to reach me ... via email zackfarmer1710@gmail.com
 
 <!---
 lilrebel17/lilrebel17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
