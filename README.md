@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @lilrebel17
-- 👀 I’m interested in ... learning to code and collaborating with other devlopers!
-- 🌱 I’m currently learning ... html,css,javascript and python
-- 💞️ I’m looking to collaborate on ... ANYTHING!
-- 📫 How to reach me ... via email zackfarmer1710@gmail.com
-
-<!---
-lilrebel17/lilrebel17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Zack!
+- 👀 What intrests you ... Becoming a better programmer, and web development along with mobile app development
+- 🌱 Are you still learning ... Yes, my focus is on NativeScript & Javascript at the moment
+- 💞️ What do you like to collab on ... I want to make cool mobile apps, and websites/web-apps
+- 🖥  What are you working on ... An android native app using HTML, CSS and JS.
+- 🆓 Am I freelancing ... Yes, and im currently seeking more projects!
+- 👩‍💻 Can I see your projects ... Of Course, its on my profile. Check out the github pages
+- 📫 I need to talk to you ... shoot me an email at zackfarmer1710@gmail.com
