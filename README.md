@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Zack!
-- 👀 What intrests you ... Becoming a better programmer, and web development along with mobile app development
-- 🌱 Are you still learning ... Yes, my focus is on NativeScript & Javascript at the moment
-- 💞️ What do you like to collab on ... I want to make cool mobile apps, and websites/web-apps
-- 🖥  What are you working on ... An android native app using HTML, CSS and JS.
+- 👀 What intrests you ... Learning to code, transfering my skills to become a full stack developer.
+- 🌱 Are you still learning ... Everyday, only time we should stop learning is when were gone.
+- 💞️ What do you like to collab on ... Anything really. But web app design/development mostly.
+- 🖥  What are you working on ... A website re-design
 - 🆓 Am I freelancing ... Yes, and im currently seeking more projects!
-- 👩‍💻 Can I see your projects ... Of Course, its on my profile. Check out the github pages
+- 👩‍💻 Can I see your projects ... Check my profile, all my websites have github pages.
 - 📫 I need to talk to you ... shoot me an email at zackfarmer1710@gmail.com
