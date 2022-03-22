@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Zack!
-- 👀 What intrests you ... Learning to code, transfering my skills to become a full stack developer.
-- 🌱 Are you still learning ... Everyday, only time we should stop learning is when were gone.
-- 💞️ What do you like to collab on ... Anything really. But web app design/development mostly.
-- 🖥  What are you working on ... A website re-design
-- 🆓 Am I freelancing ... Yes, and im currently seeking more projects!
-- 👩‍💻 Can I see your projects ... Check my profile, all my websites have github pages.
+- 👀 What intrests you ... Coding, Gaming, and having fun
+- 🌱 Are you still learning ... You should always be learning.
+- 💞️ What do you like to collab on ... Cool apps, things that can make peoples lives easier.
+- 🖥  What are you working on ... Challenging myself to complete 40 beginner JS projects
+- 🆓 Am I freelancing ... Ill take on clients if you like my work, im on upwork but I dont check it regularly
+- 👩‍💻 Can I see your projects ... I post even small projects I make on Github, most of them come with Github pages!
 - 📫 I need to talk to you ... shoot me an email at zackfarmer1710@gmail.com
