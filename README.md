@@ -4,5 +4,5 @@
 - 💞️ What do you like to collab on ... Cool apps, things that can make peoples lives easier.
 - 🖥  What are you working on ... Challenging myself to complete 40 beginner JS projects
 - 🆓 Am I freelancing ... Ill take on clients if you like my work, im on upwork but I dont check it regularly
-- 👩‍💻 Can I see your projects ... I post even small projects I make on Github, most of them come with Github pages!
+- 👩‍💻 Can I see your projects ... Everything I make goes on github, so take a look at my profile. 
 - 📫 I need to talk to you ... shoot me an email at zackfarmer1710@gmail.com
