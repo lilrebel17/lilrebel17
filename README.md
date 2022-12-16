@@ -1,4 +1,4 @@
-# <h1 align='center'>Hi, Im Zack!</h1><p align='center'>Hobbist Programmer & IT Professional</p>
+# <h1 align='center'>Hi, Im Zack!</h1><p align='center'>Hobbyist Programmer & IT Professional</p>
 
 - 🏢 What are you doing full time? 
   - I am an IT Professional by trade, and am currently working full time in that field.
